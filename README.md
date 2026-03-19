@@ -21,7 +21,11 @@ Full ASCII gallows that builds up across 6 wrong guesses (head → body → arms
 Tracks guessed letters, detects duplicate guesses, shows running score across rounds
 
 To build and run:
-bashcobc -x WORDMGR.cbl -o wordmgr
+
+In bash
+
+cobc -x WORDMGR.cbl -o wordmgr
+
 cobc -x HANGMAN.cbl -o hangman
 
 ./wordmgr      # set up your topics first
