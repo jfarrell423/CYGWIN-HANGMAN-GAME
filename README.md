@@ -4,6 +4,10 @@ HANGMAN GAME Written in GYGWIN COBOL
 
 Here's a quick rundown:
 
+GNUCOBOL is required, I have a video showing the install on windows.
+
+Walk through on installation: https://www.youtube.com/watch?v=vU0wpLtnMkY
+
 WORDMGR.cbl — Word & Topic Manager
 
 Add individual words to any topic
