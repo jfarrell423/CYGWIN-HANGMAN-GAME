@@ -29,6 +29,7 @@ cobc -x WORDMGR.cbl -o wordmgr
 cobc -x HANGMAN.cbl -o hangman
 
 ./wordmgr      # set up your topics first
+
 ./hangman      # play!
 
 The shared data file is hangman_words.dat 
