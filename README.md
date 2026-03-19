@@ -28,9 +28,9 @@ To build and run:
 
 In bash
 
-cobc -x WORDMGR.cbl -o wordmgr
+cobc -free -x WORDMGR.cbl -o wordmgr
 
-cobc -x HANGMAN.cbl -o hangman
+cobc -free -x HANGMAN.cbl -o hangman
 
 ./wordmgr      # set up your topics first
 
